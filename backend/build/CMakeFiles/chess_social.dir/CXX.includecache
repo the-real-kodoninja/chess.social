@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/project/workspace/backend/main.cpp
+cppcms/application.h
+-
+cppcms/applications_pool.h
+-
+cppcms/service.h
+-
+cppcms/http_response.h
+-
+iostream
+-
+

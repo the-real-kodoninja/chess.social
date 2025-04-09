@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/chess_social.dir/main.cpp.o  -o chess_social   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lcppcms 
