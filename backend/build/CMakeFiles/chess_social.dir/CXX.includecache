@@ -15,6 +15,16 @@ cppcms/service.h
 -
 cppcms/http_response.h
 -
+cppcms/json.h
+-
 iostream
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+unistd.h
 -
 
